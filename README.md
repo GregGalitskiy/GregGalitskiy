@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hello World! My name is [Grigory Galitskiy](https://www.linkedin.com/in/grigory-galitskiy/), I am a QA Autoimation and Manual Engineer    
 
-<!--
-**GregGalitskiy/GregGalitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Python Icon</title>
+    <style>
+        .python-icon {
+            width: 128px;
+            height: 128px;
+            background: url(https://example.com/python-icon.png) no-repeat center center;
+        }
+    </style>
+</head>
+<body>
+    <div class="python-icon"></div>
+</body>
+</html>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/118332660/204910545-f01797ea-aef5-485d-b834-f9a82e14d9fd.svg)
