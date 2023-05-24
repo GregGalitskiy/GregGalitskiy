@@ -1,26 +1,16 @@
-### Hello World! My name is [Grigory Galitskiy](https://www.linkedin.com/in/grigory-galitskiy/), I am a QA Autoimation and Manual Engineer    
+### Hello World! My name is Grigory Galitskiy, I am a QA Autoimation and Manual Engineer    
+<div align="center">
+<a href="https://www.linkedin.com/in/grigory-galitskiy/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div align="center">
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Python Icon</title>
-    <style>
-        .python-icon {
-            width: 128px;
-            height: 128px;
-            background: url(https://example.com/python-icon.png) no-repeat center center;
-        }
-    </style>
-</head>
-<body>
-    <div class="python-icon"></div>
-</body>
-</html>
+<div align="center">
+<pre><h3>My stack of languages and tools:</h3></pre>
+</div>
 
-
-
-
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
